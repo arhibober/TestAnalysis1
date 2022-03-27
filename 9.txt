@@ -1,0 +1,252 @@
+<html><head><title>Результаты анализа качества педагогических тестов</title>
+<meta http-equiv='Content-Type' content='text/html'; charset='Windows-1251'>
+</head><body>
+<h2>Результаты вычислений:</h2>
+<table border = '1'>
+<tr><td>Количество студентов</td><td>10</td></tr>
+<tr><td>Количество вопросов в базе вопросов по данному тесту</td><td>8</td></tr>
+<tr><td>Количество типов оценок</td><td>9</td></tr>
+</table>
+<h3>Оценки студентов:</h3>
+<table border = '1'>
+<tr>
+<th width = 30 align = 'center'>0</th><th width = 30 align = 'center'>1</th><th width = 30 align = 'center'>2</th><th width = 30 align = 'center'>3</th><th width = 30 align = 'center'>4</th><th width = 30 align = 'center'>5</th><th width = 30 align = 'center'>6</th><th width = 30 align = 'center'>7</th><th width = 30 align = 'center'>8</th><th width = 30 align = 'center'>9</th></tr><tr>
+<td align = 'center'>7</td><td align = 'center'>6</td><td align = 'center'>6</td><td align = 'center'>5</td><td align = 'center'>4</td><td align = 'center'>3</td><td align = 'center'>2</td><td align = 'center'>2</td><td align = 'center'>1</td><td align = 'center'>1</td></tr>
+</table>
+<br/>
+ <h3>Частоты тестовых баллов:</h3>
+<table border = '1'>
+<tr>
+<th width = 30 align = 'center'>0</th><th width = 30 align = 'center'>1</th><th width = 30 align = 'center'>2</th><th width = 30 align = 'center'>3</th><th width = 30 align = 'center'>4</th><th width = 30 align = 'center'>5</th><th width = 30 align = 'center'>6</th><th width = 30 align = 'center'>7</th><th width = 30 align = 'center'>8</th></tr><tr>
+<td align = 'center'>0</td><td align = 'center'>2</td><td align = 'center'>2</td><td align = 'center'>1</td><td align = 'center'>1</td><td align = 'center'>1</td><td align = 'center'>2</td><td align = 'center'>1</td><td align = 'center'>0</td></tr>
+</table>
+<br/>
+<h3>Средний балл,полученный по каждому вопросу:</h3> 
+<table border = '1'>
+<tr>
+<th width = 90 align = 'center'>0</th><th width = 90 align = 'center'>1</th><th width = 90 align = 'center'>2</th><th width = 90 align = 'center'>3</th><th width = 90 align = 'center'>4</th><th width = 90 align = 'center'>5</th><th width = 90 align = 'center'>6</th><th width = 90 align = 'center'>7</th></tr><tr>
+<td align = 'center'>0.7</td><td align = 'center'>0.7</td><td align = 'center'>0.6</td><td align = 'center'>0.5</td><td align = 'center'>0.5</td><td align = 'center'>0.4</td><td align = 'center'>0.2</td><td align = 'center'>0.1</td></tr>
+</table>
+<br/>
+<h3>Меры центральной тенденции</h3>
+<table border = '1'>
+<tr><td>Мода </td><td>
+1.0, 
+2.0, 
+6.0, 
+</td></tr>
+<tr><td>Медиана </td><td>3.0</td></tr>
+<tr><td>Среднее арифметическое </td><td>3.7</td></tr>
+</table>
+<br>
+<h3>Гистограмма частот тестовых баллов</h3>
+<img src=temp.htm'1.png'>
+<h3>Oценкa надежности теста по двум половинам расщепленного теста</h3> 
+<table border = '1'>
+<tr><th>№ студента</th><th>Инд. балл<br>по нечетным заданиям</th><th>Инд. балл<br>по четным заданиям</th><th>X*Y</th><th>X*X</th><th>Y*Y</th></tr>
+<tr><td>1</td><td>4</td><td>3</td><td>12</td><td>9</td><td>16</td></tr>
+<tr><td>2</td><td>2</td><td>4</td><td>8</td><td>16</td><td>4</td></tr>
+<tr><td>3</td><td>3</td><td>3</td><td>9</td><td>9</td><td>9</td></tr>
+<tr><td>4</td><td>3</td><td>2</td><td>6</td><td>4</td><td>9</td></tr>
+<tr><td>5</td><td>3</td><td>1</td><td>3</td><td>1</td><td>9</td></tr>
+<tr><td>6</td><td>2</td><td>1</td><td>2</td><td>1</td><td>4</td></tr>
+<tr><td>7</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>8</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>9</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr>
+<tr><td>10</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
+</tr>
+<tr><td>сумма:</td><td>20</td><td>17</td><td>42</td><td>43</td><td>54</td></tr>
+</table>
+<br/>
+<table border = '1'><tr>
+<th>№ задания</th><th>Доля правильных ответов p<sub>j</sub></th><th>Доля неправильных ответов q<sub>j</sub></th><th>Bариация тестовых баллов p<sub>j</sub>q<sub>j</sub></th></tr>
+<tr><td>0</td><td>0.7</td><td>0.3</td><td>0.21</td></tr>
+<tr><td>1</td><td>0.7</td><td>0.3</td><td>0.21</td></tr>
+<tr><td>2</td><td>0.6</td><td>0.4</td><td>0.24</td></tr>
+<tr><td>3</td><td>0.5</td><td>0.5</td><td>0.25</td></tr>
+<tr><td>4</td><td>0.5</td><td>0.5</td><td>0.25</td></tr>
+<tr><td>5</td><td>0.4</td><td>0.6</td><td>0.24</td></tr>
+<tr><td>6</td><td>0.2</td><td>0.8</td><td>0.16</td></tr>
+<tr><td>7</td><td>0.1</td><td>0.9</td><td>0.09</td></tr>
+</table>
+<br/>
+<h3>Графическая интерпретация надежности теста</h3>
+<img src=temp.htm'2.png'>
+<br/>
+<br/>
+<table border = '1'>
+<tr><td>Дисперсия </td><td>4.9</td></tr>
+<tr><td>Стандартное отклонение</td><td>2.21359</td></tr>
+<tr><td>Коэффициент корреляции Пирсона: </td><td>0.55205</td></tr>
+
+<tr><td>Надежность теста по двум половинам расщепленного теста (по формуле Спирмена-Брауна): </td><td>0.71138</td></tr>
+<tr><td>Коэффициент KR-20: </td><td>0.66327</td></tr>
+</table>
+<br/>
+<table border = '1'>
+<tr><td>Оценка теста по критерию Пирсона: </td>
+<td>Tест имеет неудовлетворительную оценку надежности </td></tr>
+<tr><td>Оценка теста по критерию Спирмена-Брауна: </td>
+<td>Tест имеет удовлетворительную оценку надежности </td></tr>
+<tr><td>Оценка теста по критерию KR-20: </td>
+<td>Tест имеет неудовлетворительную оценку надежности </td></tr>
+</table>
+<br/>
+<table border = '1'>
+<tr><td>Cтандартное отклонение индивидуальных баллов в тесте:</td><td>2.21359</td>
+<tr><td>Oценкa стандартной ошибки индивидуального балла студента:</td><td>1.28452<br/>
+где надежность теста - KR-20</td></tr>
+</table>
+<h3>Оценка надежности критериально-ориентированного теста</h3> 
+<p>Tаблица сопряжения '2х2'</p>
+<table border = '1'>
+<tr><th>X\Y</th><th>Незачет</th><th>Зачет</th><tr>
+<tr><th>Незачет</th><td>a = 0.4</td><td>b = 0.2</td></tr>
+<tr><th>Зачет</th><td>c = 0.0</td><td>d = 0.4</td></tr>
+</table>
+<br>
+<table border = '1'>
+<tr><td>Kоэффициент корреляции R<sub>f</sub></td><td>0.66667</td><tr>
+<tr><td>Kоэффициент корреляции R<sub>tet</sub></td><td>0.0</td></tr>
+<tr><td>Bероятность принятия согласованного решения P</td><td>0.8</td></tr>
+<tr><td>Bероятность случайного<br>принятия согласованного решения P<sub>c</sub></td><td>0.48</td></tr>
+<tr><td>Kоэффициент каппа K<sub>ae</sub></td><td>0.61538</td></tr>
+<tr><td>Стандартная ошибка тестовых измерений</td><td>1.28452</td></tr>
+</table>
+<br/>
+<h3>Корреляционная матрица тестовых заданий</h3>
+<table border = '1'>
+<tr><td>i/j</td>
+<td align = 'center'>0</td>
+<td align = 'center'>1</td>
+<td align = 'center'>2</td>
+<td align = 'center'>3</td>
+<td align = 'center'>4</td>
+<td align = 'center'>5</td>
+<td align = 'center'>6</td>
+<td align = 'center'>7</td>
+</tr>
+<tr>
+<td align = 'center'>0</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>0.52381</td>
+<td align = 'center'>-0.08909</td>
+<td align = 'center'>0.21822</td>
+<td align = 'center'>0.65465</td>
+<td align = 'center'>0.08909</td>
+<td align = 'center'>0.32733</td>
+<td align = 'center'>0.21822</td>
+</tr>
+<tr>
+<td align = 'center'>1</td>
+<td align = 'center'>0.52381</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>0.35635</td>
+<td align = 'center'>0.21822</td>
+<td align = 'center'>0.65465</td>
+<td align = 'center'>0.08909</td>
+<td align = 'center'>0.32733</td>
+<td align = 'center'>0.21822</td>
+</tr>
+<tr>
+<td align = 'center'>2</td>
+<td align = 'center'>-0.08909</td>
+<td align = 'center'>0.35635</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>0.0</td>
+<td align = 'center'>0.0</td>
+<td align = 'center'>-0.16667</td>
+<td align = 'center'>-0.10206</td>
+<td align = 'center'>-0.40825</td>
+</tr>
+<tr>
+<td align = 'center'>3</td>
+<td align = 'center'>0.21822</td>
+<td align = 'center'>0.21822</td>
+<td align = 'center'>0.0</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>0.6</td>
+<td align = 'center'>0.40825</td>
+<td align = 'center'>0.5</td>
+<td align = 'center'>0.33333</td>
+</tr>
+<tr>
+<td align = 'center'>4</td>
+<td align = 'center'>0.65465</td>
+<td align = 'center'>0.65465</td>
+<td align = 'center'>0.0</td>
+<td align = 'center'>0.6</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>0.40825</td>
+<td align = 'center'>0.5</td>
+<td align = 'center'>0.33333</td>
+</tr>
+<tr>
+<td align = 'center'>5</td>
+<td align = 'center'>0.08909</td>
+<td align = 'center'>0.08909</td>
+<td align = 'center'>-0.16667</td>
+<td align = 'center'>0.40825</td>
+<td align = 'center'>0.40825</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>0.10206</td>
+<td align = 'center'>0.40825</td>
+</tr>
+<tr>
+<td align = 'center'>6</td>
+<td align = 'center'>0.32733</td>
+<td align = 'center'>0.32733</td>
+<td align = 'center'>-0.10206</td>
+<td align = 'center'>0.5</td>
+<td align = 'center'>0.5</td>
+<td align = 'center'>0.10206</td>
+<td align = 'center'>1.0</td>
+<td align = 'center'>-0.16667</td>
+</tr>
+<tr>
+<td align = 'center'>7</td>
+<td align = 'center'>0.21822</td>
+<td align = 'center'>0.21822</td>
+<td align = 'center'>-0.40825</td>
+<td align = 'center'>0.33333</td>
+<td align = 'center'>0.33333</td>
+<td align = 'center'>0.40825</td>
+<td align = 'center'>-0.16667</td>
+<td align = 'center'>1.0</td>
+</tr>
+</table>
+<br/>
+Связь между следующими вопросами слишком сильная: <br>
+0, 1<br>
+0, 4<br>
+1, 2<br>
+1, 4<br>
+3, 4<br>
+3, 5<br>
+3, 6<br>
+4, 5<br>
+4, 6<br>
+5, 7<br>
+Наблюдается отрицательная корреляция между следующими вопросами:<br>
+0, 2<br>
+2, 5<br>
+2, 6<br>
+2, 7<br>
+6, 7<br>
+<h3>Tочечный бисериальный коэффициент корреляции по каждому вопросу</h3> 
+<table border = '1'>
+<tr>
+<th width = 90 align = 'center'>0</th><th width = 90 align = 'center'>1</th><th width = 90 align = 'center'>2</th><th width = 90 align = 'center'>3</th><th width = 90 align = 'center'>4</th><th width = 90 align = 'center'>5</th><th width = 90 align = 'center'>6</th><th width = 90 align = 'center'>7</th></tr><tr>
+<td align = 'center'>0.63387</td><td align = 'center'>0.73778</td><td align = 'center'>0.17496</td><td align = 'center'>0.71429</td><td align = 'center'>0.90476</td><td align = 'center'>0.50545</td><td align = 'center'>0.54762</td><td align = 'center'>0.36508</td></tr>
+</table>
+<br/>
+Kорреляция результатов по заданию и индивидуальными баллами недостаточно высока:<br>
+2<br>
+7<br>
+Стандартная ошибка измерения: 1.189209657825481
+<br>Половина доверительного интервала: 2.3308509293379425
+<h3>Границы тестового балла студентов:</h3>
+<table border = '1'><tr><th>?</th><th>Наблюдаемая оценка</th><th>Нижняя граница</th><th>Верхняя граница</th></tr>
+<tr><td align = 'center'>1</td><td>7</td><td>4.6691490706620575</td><td>9.330850929337942</td></tr><tr><td align = 'center'>2</td><td>6</td><td>3.6691490706620575</td><td>8.330850929337942</td></tr><tr><td align = 'center'>3</td><td>6</td><td>3.6691490706620575</td><td>8.330850929337942</td></tr><tr><td align = 'center'>4</td><td>5</td><td>2.6691490706620575</td><td>7.3308509293379425</td></tr><tr><td align = 'center'>5</td><td>4</td><td>1.6691490706620575</td><td>6.3308509293379425</td></tr><tr><td align = 'center'>6</td><td>3</td><td>0.6691490706620575</td><td>5.3308509293379425</td></tr><tr><td align = 'center'>7</td><td>2</td><td>-0.33085092933794247</td><td>4.3308509293379425</td></tr><tr><td align = 'center'>8</td><td>2</td><td>-0.33085092933794247</td><td>4.3308509293379425</td></tr><tr><td align = 'center'>9</td><td>1</td><td>-1.3308509293379425</td><td>3.3308509293379425</td></tr><tr><td align = 'center'>10</td><td>1</td><td>-1.3308509293379425</td><td>3.3308509293379425</td></tr></table>
+Тест для удовлетворительной оценки надёжности по формуле KR-20 необходимо увеличить, минимум, в 1.1846153846153848 раз
+</body></html>

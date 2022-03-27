@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" size="786,1451" id="gui" metadata="uml2-1.0" initialized="true" scrolledY="604" tag="1000" key="32303036303332302054657374416E616C797369732F4C656F">
+  <children xsi:type="editmodel:ClassEditModel" name="JMainFrame" location="40,50" size="226,1381" id="gui/JMainFrame" runTimeClassModel="main([Ljava.lang.String;),apply(),jTabbedPaneGraphs,jMenuInput2,myFunc,jButtonInput,jLabelQuiestions,jPanelTwo,jMenuItemSaveText,report,jScrollPaneFirst,jSplitPane,jContentPane,jTextAreaQuestions,jTableSecond,jScrollPane1,jScrollPaneSecond,myFunc1,jTextAreaStudents,jTextAreaStudents1,JMainFrame(),drawDiagram1(),isTwo,apply1(),jTabbedPaneTables,jTabbedPanePresentation,jLabelQuestions1,saveText22(),saveText21(),jLabelStudents1,myTableModel,jButtonSaveText22,jButtonSave1,jButtonSaveText21,drawDiagram(),jScrollPane,jButtonSave,jTabbedPaneFrequency,jSplitPane1,jPanelOne,count1(),isFileOpen,jMenuSave,jLabelStudents,jMainMenu,jPanelOneLeft,diagramPanel21,diagramPanel1,jMenuHelp,jMenuItemExit,isFile22Open,jTextAreaQuestions1,jMenuProgram,jButtonApply,jMenuInput,jLabelProbability1,jFileChooser,jTabbedPane,jButtonCount,jButtonApply1,saveText(),diagramPanel,jTableFirst,jButtonInput21,jButtonInput22,jButtonCount1,jTable1,jButtonSaveText,isFile21Open,jMenuFile,jPanelTwoLeft,jTabbedPaneReliability,jTabbedPane2,jLabelProbability">
+    <children xsi:type="editmodel:CompartmentEditModel" size="203,1152">
+      <children xsi:type="editmodel:AttributeEditModel" name="diagramPanel" location="10,76" id="gui/JMainFrame#diagramPanel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="diagramPanel1" location="10,94" id="gui/JMainFrame#diagramPanel1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="diagramPanel21" location="10,112" id="gui/JMainFrame#diagramPanel21"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="isFile21Open" location="10,130" id="gui/JMainFrame#isFile21Open"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="isFile22Open" id="gui/JMainFrame#isFile22Open"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="isFileOpen" id="gui/JMainFrame#isFileOpen"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="isTwo" id="gui/JMainFrame#isTwo"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonApply" id="gui/JMainFrame#jButtonApply"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonApply1" id="gui/JMainFrame#jButtonApply1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonCount" id="gui/JMainFrame#jButtonCount"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonCount1" id="gui/JMainFrame#jButtonCount1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonInput" id="gui/JMainFrame#jButtonInput"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonInput21" id="gui/JMainFrame#jButtonInput21"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonInput22" id="gui/JMainFrame#jButtonInput22"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonSave" id="gui/JMainFrame#jButtonSave"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonSave1" id="gui/JMainFrame#jButtonSave1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonSaveText" id="gui/JMainFrame#jButtonSaveText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonSaveText21" id="gui/JMainFrame#jButtonSaveText21"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButtonSaveText22" id="gui/JMainFrame#jButtonSaveText22"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jContentPane" id="gui/JMainFrame#jContentPane"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jFileChooser" id="gui/JMainFrame#jFileChooser"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabelProbability" id="gui/JMainFrame#jLabelProbability"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabelProbability1" id="gui/JMainFrame#jLabelProbability1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabelQuestions1" id="gui/JMainFrame#jLabelQuestions1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabelQuiestions" id="gui/JMainFrame#jLabelQuiestions"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabelStudents" id="gui/JMainFrame#jLabelStudents"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabelStudents1" id="gui/JMainFrame#jLabelStudents1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMainMenu" id="gui/JMainFrame#jMainMenu"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuFile" id="gui/JMainFrame#jMenuFile"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuHelp" id="gui/JMainFrame#jMenuHelp"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuInput" id="gui/JMainFrame#jMenuInput"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuInput2" id="gui/JMainFrame#jMenuInput2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuItemExit" id="gui/JMainFrame#jMenuItemExit"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuItemSaveText" id="gui/JMainFrame#jMenuItemSaveText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuProgram" id="gui/JMainFrame#jMenuProgram"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jMenuSave" id="gui/JMainFrame#jMenuSave"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jPanelOne" id="gui/JMainFrame#jPanelOne"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jPanelOneLeft" id="gui/JMainFrame#jPanelOneLeft"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jPanelTwo" id="gui/JMainFrame#jPanelTwo"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jPanelTwoLeft" id="gui/JMainFrame#jPanelTwoLeft"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jScrollPane" id="gui/JMainFrame#jScrollPane"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jScrollPane1" location="10,814" id="gui/JMainFrame#jScrollPane1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jScrollPaneFirst" id="gui/JMainFrame#jScrollPaneFirst"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jScrollPaneSecond" id="gui/JMainFrame#jScrollPaneSecond"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jSplitPane" id="gui/JMainFrame#jSplitPane"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jSplitPane1" id="gui/JMainFrame#jSplitPane1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPane" id="gui/JMainFrame#jTabbedPane"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPane2" id="gui/JMainFrame#jTabbedPane2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPaneFrequency" id="gui/JMainFrame#jTabbedPaneFrequency"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPaneGraphs" id="gui/JMainFrame#jTabbedPaneGraphs"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPanePresentation" id="gui/JMainFrame#jTabbedPanePresentation"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPaneReliability" id="gui/JMainFrame#jTabbedPaneReliability"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTabbedPaneTables" id="gui/JMainFrame#jTabbedPaneTables"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTable1" id="gui/JMainFrame#jTable1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTableFirst" id="gui/JMainFrame#jTableFirst"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTableSecond" id="gui/JMainFrame#jTableSecond"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTextAreaQuestions" id="gui/JMainFrame#jTextAreaQuestions"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTextAreaQuestions1" id="gui/JMainFrame#jTextAreaQuestions1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTextAreaStudents" id="gui/JMainFrame#jTextAreaStudents"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jTextAreaStudents1" id="gui/JMainFrame#jTextAreaStudents1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="myFunc" id="gui/JMainFrame#myFunc"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="myFunc1" id="gui/JMainFrame#myFunc1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="myTableModel" id="gui/JMainFrame#myTableModel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="report" id="gui/JMainFrame#report"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="101,180">
+      <children xsi:type="editmodel:MethodEditModel" name="JMainFrame" id="gui/JMainFrame#JMainFrame()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="apply" id="gui/JMainFrame#apply()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="apply1" id="gui/JMainFrame#apply1()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="count1" id="gui/JMainFrame#count1()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="drawDiagram" id="gui/JMainFrame#drawDiagram()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="drawDiagram1" id="gui/JMainFrame#drawDiagram1()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="gui/JMainFrame#main([Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveText" id="gui/JMainFrame#saveText()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveText21" id="gui/JMainFrame#saveText21()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="saveText22" location="-17,1346" id="gui/JMainFrame#saveText22()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Report" location="542,1030" size="85,103" id="gui/Report" runTimeClassModel="main([Ljava.lang.String;),Report(Ljava.lang.String;),Report()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="62,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Report" id="gui/Report#Report()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Report" id="gui/Report#Report(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="gui/Report#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="MyFunc2Tests" location="326,50" size="157,845" id="gui/MyFunc2Tests" runTimeClassModel="main([Ljava.lang.String;),round(DI),readFromFile2(Ljava.lang.String;),setElement2(III),count,initData(),newAr2(II),ticket1,MyFunc2Tests(),ticket2,ar1,ar2,fileCount(Ljava.io.PrintWriter;Ljava.lang.String;),students,getElement1(II),setElement1(III),gui.MyFunc2Tests.Student,readFromFile1(Ljava.lang.String;),questions,file2IsOpen,getElement2(II),newAr1(II),file1IsOpen,fileName2,fileName1,writeToFile(Ljava.lang.String;Ljava.lang.String;),gui.MyFunc2Tests.Question">
+    <children xsi:type="editmodel:CompartmentEditModel" size="117,198">
+      <children xsi:type="editmodel:AttributeEditModel" name="ar1" id="gui/MyFunc2Tests#ar1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="ar2" id="gui/MyFunc2Tests#ar2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="count" id="gui/MyFunc2Tests#count"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="file1IsOpen" id="gui/MyFunc2Tests#file1IsOpen"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="file2IsOpen" id="gui/MyFunc2Tests#file2IsOpen"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="fileName1" id="gui/MyFunc2Tests#fileName1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="fileName2" id="gui/MyFunc2Tests#fileName2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="questions" id="gui/MyFunc2Tests#questions"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="students" id="gui/MyFunc2Tests#students"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="ticket1" id="gui/MyFunc2Tests#ticket1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="ticket2" id="gui/MyFunc2Tests#ticket2"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="101,252">
+      <children xsi:type="editmodel:MethodEditModel" name="MyFunc2Tests" id="gui/MyFunc2Tests#MyFunc2Tests()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="fileCount" id="gui/MyFunc2Tests#fileCount(Ljava.io.PrintWriter;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getElement1" id="gui/MyFunc2Tests#getElement1(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getElement2" id="gui/MyFunc2Tests#getElement2(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="initData" id="gui/MyFunc2Tests#initData()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="gui/MyFunc2Tests#main([Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="newAr1" id="gui/MyFunc2Tests#newAr1(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="newAr2" id="gui/MyFunc2Tests#newAr2(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="readFromFile1" id="gui/MyFunc2Tests#readFromFile1(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="readFromFile2" id="gui/MyFunc2Tests#readFromFile2(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="round" id="gui/MyFunc2Tests#round(DI)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setElement1" id="gui/MyFunc2Tests#setElement1(III)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setElement2" id="gui/MyFunc2Tests#setElement2(III)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="writeToFile" id="gui/MyFunc2Tests#writeToFile(Ljava.lang.String;Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="134,336">
+      <children xsi:type="editmodel:ClassEditModel" name="Question" size="98,103" id="gui/MyFunc2Tests$Question" runTimeClassModel="Question(I),p,number">
+        <children xsi:type="editmodel:CompartmentEditModel" size="72,36">
+          <children xsi:type="editmodel:AttributeEditModel" name="number" id="gui/MyFunc2Tests$Question#number"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="p" id="gui/MyFunc2Tests$Question#p"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel" size="73,18">
+          <children xsi:type="editmodel:MethodEditModel" name="Question" id="gui/MyFunc2Tests$Question#Question(I)"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel"/>
+        <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+      </children>
+      <children xsi:type="editmodel:ClassEditModel" name="Student" size="134,229" id="gui/MyFunc2Tests$Student" runTimeClassModel="Student(I[I[I[I[I),mark2,mark1,Student(I),arrAnswers1,arrAnswers2,number,arrQuestions2,Student(),arrQuestions1">
+        <children xsi:type="editmodel:CompartmentEditModel" size="111,126">
+          <children xsi:type="editmodel:AttributeEditModel" name="arrAnswers1" id="gui/MyFunc2Tests$Student#arrAnswers1"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="arrAnswers2" id="gui/MyFunc2Tests$Student#arrAnswers2"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="arrQuestions1" id="gui/MyFunc2Tests$Student#arrQuestions1"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="arrQuestions2" id="gui/MyFunc2Tests$Student#arrQuestions2"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="mark1" id="gui/MyFunc2Tests$Student#mark1"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="mark2" id="gui/MyFunc2Tests$Student#mark2"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="number" id="gui/MyFunc2Tests$Student#number"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel" size="67,54">
+          <children xsi:type="editmodel:MethodEditModel" name="Student" id="gui/MyFunc2Tests$Student#Student(I[I[I[I[I)"/>
+          <children xsi:type="editmodel:MethodEditModel" name="Student" id="gui/MyFunc2Tests$Student#Student(I)"/>
+          <children xsi:type="editmodel:MethodEditModel" name="Student" id="gui/MyFunc2Tests$Student#Student()"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel"/>
+        <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+      </children>
+    </children>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="JFrameHelp" location="650,1030" size="119,85" id="gui/JFrameHelp" runTimeClassModel="main([Ljava.lang.String;),JFrameHelp()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="86,36">
+      <children xsi:type="editmodel:MethodEditModel" name="JFrameHelp" id="gui/JFrameHelp#JFrameHelp()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="gui/JFrameHelp#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="MyFunc" location="533,50" size="145,827" id="gui/MyFunc" runTimeClassModel="main([Ljava.lang.String;),to,round(DI),newAr(II),count,initStudents(),getMarkStudent(I),initData(),from,gui.MyFunc.Question,calcMarks(),ticket,getElement(II),readFromFile(Ljava.lang.String;),fileIsOpen,setElement(III),fileCount(Ljava.io.PrintWriter;Ljava.lang.String;),students,setMark(I),max(),questions,MyFunc(),often,setStudent(I),fileName,gui.MyFunc.Student,writeToFile(Ljava.lang.String;Ljava.lang.String;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="111,162">
+      <children xsi:type="editmodel:AttributeEditModel" name="count" id="gui/MyFunc#count"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="fileIsOpen" id="gui/MyFunc#fileIsOpen"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="fileName" id="gui/MyFunc#fileName"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="from" id="gui/MyFunc#from"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="often" id="gui/MyFunc#often"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="questions" id="gui/MyFunc#questions"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="students" id="gui/MyFunc#students"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="ticket" id="gui/MyFunc#ticket"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="to" id="gui/MyFunc#to"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="105,288">
+      <children xsi:type="editmodel:MethodEditModel" name="MyFunc" id="gui/MyFunc#MyFunc()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="calcMarks" id="gui/MyFunc#calcMarks()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="fileCount" id="gui/MyFunc#fileCount(Ljava.io.PrintWriter;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getElement" id="gui/MyFunc#getElement(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getMarkStudent" id="gui/MyFunc#getMarkStudent(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="initData" id="gui/MyFunc#initData()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="initStudents" id="gui/MyFunc#initStudents()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="gui/MyFunc#main([Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="max" id="gui/MyFunc#max()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="newAr" id="gui/MyFunc#newAr(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="readFromFile" id="gui/MyFunc#readFromFile(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="round" id="gui/MyFunc#round(DI)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setElement" id="gui/MyFunc#setElement(III)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setMark" id="gui/MyFunc#setMark(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setStudent" id="gui/MyFunc#setStudent(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="writeToFile" id="gui/MyFunc#writeToFile(Ljava.lang.String;Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="122,318">
+      <children xsi:type="editmodel:ClassEditModel" name="Question" size="98,103" id="gui/MyFunc$Question" runTimeClassModel="Question(I),p,number">
+        <children xsi:type="editmodel:CompartmentEditModel" size="72,36">
+          <children xsi:type="editmodel:AttributeEditModel" name="number" id="gui/MyFunc$Question#number"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="p" id="gui/MyFunc$Question#p"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel" size="73,18">
+          <children xsi:type="editmodel:MethodEditModel" name="Question" id="gui/MyFunc$Question#Question(I)"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel"/>
+        <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+      </children>
+      <children xsi:type="editmodel:ClassEditModel" name="Student" size="122,211" id="gui/MyFunc$Student" runTimeClassModel="arrAnswers,Student(I),uneven,number,arrQuestions,mark,even,Student(I[I[I),Student()">
+        <children xsi:type="editmodel:CompartmentEditModel" size="99,108">
+          <children xsi:type="editmodel:AttributeEditModel" name="arrAnswers" id="gui/MyFunc$Student#arrAnswers"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="arrQuestions" id="gui/MyFunc$Student#arrQuestions"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="even" id="gui/MyFunc$Student#even"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="mark" id="gui/MyFunc$Student#mark"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="number" id="gui/MyFunc$Student#number"/>
+          <children xsi:type="editmodel:AttributeEditModel" name="uneven" id="gui/MyFunc$Student#uneven"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel" size="67,54">
+          <children xsi:type="editmodel:MethodEditModel" name="Student" id="gui/MyFunc$Student#Student(I)"/>
+          <children xsi:type="editmodel:MethodEditModel" name="Student" id="gui/MyFunc$Student#Student(I[I[I)"/>
+          <children xsi:type="editmodel:MethodEditModel" name="Student" id="gui/MyFunc$Student#Student()"/>
+        </children>
+        <children xsi:type="editmodel:CompartmentEditModel"/>
+        <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+      </children>
+    </children>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="JFrameGuide" location="542,920" size="128,85" id="gui/JFrameGuide" runTimeClassModel="main([Ljava.lang.String;),JFrameGuide()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="93,36">
+      <children xsi:type="editmodel:MethodEditModel" name="JFrameGuide" id="gui/JFrameGuide#JFrameGuide()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="gui/JFrameGuide#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="MyTableModel" location="330,920" size="149,265" id="gui/MyTableModel" runTimeClassModel="MyTableModel(),getColumnCount(),isCellEditable(II),col,getValueAt(II),setValueAt(Ljava.lang.Object;II),data,getRowCount(),getColumnClass(I),getColumnName(I),MyTableModel(II),columnNames">
+    <children xsi:type="editmodel:CompartmentEditModel" size="126,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="col" id="gui/MyTableModel#col"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="columnNames" id="gui/MyTableModel#columnNames"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="data" id="gui/MyTableModel#data"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="108,162">
+      <children xsi:type="editmodel:MethodEditModel" name="MyTableModel" id="gui/MyTableModel#MyTableModel(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="MyTableModel" id="gui/MyTableModel#MyTableModel()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getColumnClass" id="gui/MyTableModel#getColumnClass(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getColumnCount" id="gui/MyTableModel#getColumnCount()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getColumnName" id="gui/MyTableModel#getColumnName(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getRowCount" id="gui/MyTableModel#getRowCount()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getValueAt" id="gui/MyTableModel#getValueAt(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isCellEditable" id="gui/MyTableModel#isCellEditable(II)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setValueAt" id="gui/MyTableModel#setValueAt(Ljava.lang.Object;II)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=1" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="10,10" gridOrigin="0,0" rulerUnit="pixel">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showInterfaceStereotype="true" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>
